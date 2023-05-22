@@ -263,7 +263,7 @@
     "OverlayNotInstalledTitle": "您暂时不能使用这个功能，因为游戏尚未安装当前区服版本，或者需要更新！",
     "OverlayNotInstalledSubtitle": "请首先在游戏启动器页面下载/更新游戏！",
     "OverlayGameRunningTitle": "游戏正在运行！",
-    "OverlayGameRunningSubtitle": "请先关闭游戏以使用此功能！"
+    "OverlayGameRunningSubtitle": "请先关闭游戏以使用此功能！",
     "OverlayFirstTimeTitle": "你还从未启动过这个游戏！",
     "OverlayFirstTimeSubtitle": "请先运行游戏，以生成必要的文件，然后再回到这里使用此功能。",
     "CustomArgs_Title": "自定义启动参数（高级）",
@@ -571,17 +571,17 @@
   },
   "_InstallMigrate": {
     "PageTitle": "游戏迁移",
-    "Step1Title": "进程将在5秒内开始.请接受UAC(管理员权限)的提示后开始迁移.",
-    "Step2Title": "迁移正在进行中. 你可能会看到一个控制台窗口弹出. 请等待直到该过程完成",
-    "Step3Title": "迁移已完成!正在返回...",
-    "StepCancelledTitle": "迁移已取消!正在返回...",
+    "Step1Title": "进程将在 5 秒内开始.请接受 UAC（管理员权限）的提示后开始迁移.",
+    "Step2Title": "迁移正在进行中。你可能会看到一个控制台窗口弹出。请等待直到该过程完成",
+    "Step3Title": "迁移已完成！正在返回...",
+    "StepCancelledTitle": "迁移已取消！正在返回...",
     "PageFooter1": "请注意",
-    "PageFooter2": "请勿",
-    "PageFooter3": "进程运行时,请切换到其他页面或关闭启动器"
+    "PageFooter2": "进程运行时，请 **不要**",
+    "PageFooter3": "切换到其他页面或关闭启动器"
   },
   "_UpdatePage": {
     "PageTitle1": "有可用",
-    "PageTitle2": "更新!",
+    "PageTitle2": "更新！",
     "VerCurLabel": "当前版本:",
     "VerNewLabel": "最新版本:",
     "VerChannelLabel": "更新通道:",
@@ -610,16 +610,16 @@
     "UpdateCountdownMessage3": "中止倒计时)"
   },
   "_AppNotification": {
-    "NotifMetadataUpdateTitle": "启动器元数据更新已推出!",
-    "NotifMetadataUpdateSubtitle": "启动器的新元数据可用! 我们建议您继续安装更新,以确保启动器能够与 mihoYo/HoYoverse 服务器通信. 点击\"更新元数据\"进行更新.",
+    "NotifMetadataUpdateTitle": "启动器元数据更新已推出！",
+    "NotifMetadataUpdateSubtitle": "启动器的新元数据可用！我们建议您继续安装更新，以确保启动器能够与 miHoYo/HoYoverse 服务器通信。点击“更新元数据”进行更新。",
     "NotifMetadataUpdateBtn": "更新元数据",
-    "NotifMetadataUpdateBtnCountdown": "正在更新元数据： {0}",
-    "NotifMetadataUpdateBtnUpdating": "正在更新元数据,请稍候...",
-    "NotifFirstWelcomeTitle": "欢迎来到Collapse!",
-    "NotifFirstWelcomeSubtitle": "要想开始使用,请点击下面的\"{0}\"按钮来查看如何安装或迁移现有游戏.",
-    "NotifFirstWelcomeBtn": "访问 GitHub上的WIKI",
+    "NotifMetadataUpdateBtnCountdown": "正在更新元数据：{0}",
+    "NotifMetadataUpdateBtnUpdating": "正在更新元数据，请稍候...",
+    "NotifFirstWelcomeTitle": "欢迎来到 Collapse Fork！",
+    "NotifFirstWelcomeSubtitle": "要想开始使用，请点击下面的\"{0}\"按钮来查看如何安装或迁移现有游戏。",
+    "NotifFirstWelcomeBtn": "访问 GitHub 上的 Wiki",
     "NotifPreviewBuildUsedTitle": "您正在使用预览版本!",
-    "NotifPreviewBuildUsedSubtitle": "您目前使用的是PREVIEW版本,该版本仍在测试中.如果您遇到任何问题,请使用下面的\"{0}\"按钮报告.谢谢!",
+    "NotifPreviewBuildUsedSubtitle": "您目前使用的是 Preview 版本，该版本仍在测试中。如果您遇到任何问题，请使用下面的\"{0}\"按钮报告.谢谢!",
     "NotifPreviewBuildUsedBtn": "提交问题"
   }
 }
