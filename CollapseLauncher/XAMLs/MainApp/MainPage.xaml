@@ -68,7 +68,7 @@
                                             Visibility="Visible">
                                 </TextBlock>
                                 <TextBlock
-                                            Text="Launcher"
+                                            Text="Launcher (Fork)"
                                             FontWeight="Bold"
                                             FontSize="12"
                                             Opacity="0.8"
