@@ -71,7 +71,7 @@
                                             <Run Text="CDN" FontWeight="Bold"/>
                                             <Run Text="is a system used to make launcher files available to a larger audience, quickly and efficiently." TextDecorations="None"/>
                                         </TextBlock>
-                                        <TextBlock Text="Collapse selects GitHub as the default provider."/>
+                                        <TextBlock Text="Collapse (Fork) selects GitHub as the default provider."/>
                                         <TextBlock Text="CDNs available:" FontWeight="Bold" FontSize="20" Margin="0,12,0,0"/>
                                         <ItemsControl ItemsSource="{x:Bind innerConfig:LauncherConfig.CDNList}" MaxWidth="380" Margin="0,0,0,-8">
                                             <ItemsControl.ItemTemplate>

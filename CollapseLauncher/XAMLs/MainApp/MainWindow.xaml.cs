@@ -82,7 +82,7 @@ namespace CollapseLauncher
             m_appWindow = AppWindow.GetFromWindowId(m_windowID);
             m_presenter = m_appWindow.Presenter as OverlappedPresenter;
 
-            string title = $"Collapse";
+            string title = $"Collapse (Fork)";
             if (IsPreview)
                 title += " Preview";
 #if DEBUG

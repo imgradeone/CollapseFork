@@ -68,7 +68,7 @@
                                             Visibility="Visible">
                                 </TextBlock>
                                 <TextBlock
-                                            Text="Launcher (Fork)"
+                                            Text="Launcher"
                                             FontWeight="Bold"
                                             FontSize="12"
                                             Opacity="0.8"
@@ -82,7 +82,7 @@
                                 Margin="-16,-16,0,0" Grid.Column="4" Grid.ColumnSpan="2"
                                 Background="{ThemeResource AccentColor}" HorizontalAlignment="Right"
                                 VerticalAlignment="Center" CornerRadius="3">
-                                <TextBlock Padding="3,0,3,1" FontSize="8" Text="PRE" VerticalAlignment="Center"
+                                <TextBlock Padding="3,0,3,1" FontSize="8" Text="FORK" VerticalAlignment="Center"
                                            FontWeight="Bold" Foreground="{ThemeResource DefaultFGColorAccent}"/>
                             </StackPanel>
                         </StackPanel>

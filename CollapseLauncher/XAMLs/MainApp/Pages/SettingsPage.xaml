@@ -196,7 +196,7 @@
                     <Grid>
                         <StackPanel Grid.Column="1">
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="Collapse Launcher" Style="{ThemeResource BodyStrongTextBlockStyle}"/>
+                                <TextBlock Text="Collapse Launcher (Fork)" Style="{ThemeResource BodyStrongTextBlockStyle}"/>
                                 <TextBlock x:Name="AppVersionTextBlock" Text=" 1.0.0" Style="{ThemeResource BodyTextBlockStyle}"/>
                             </StackPanel>
                             <StackPanel Orientation="Horizontal">

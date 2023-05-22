@@ -63,7 +63,7 @@ namespace CollapseLauncher
         {
             try
             {
-                LogWriteLine($"Welcome to Collapse Launcher v{AppCurrentVersion.VersionString} - {MainEntryPoint.GetVersionString()}", LogType.Default, false);
+                LogWriteLine($"Welcome to Collapse Launcher (Fork) v{AppCurrentVersion.VersionString} - {MainEntryPoint.GetVersionString()}", LogType.Default, false);
                 LogWriteLine($"Application Data Location:\r\n\t{AppDataFolder}", LogType.Default);
                 InitializeComponent();
                 LoadingPopupPill.Translation += Shadow32;
